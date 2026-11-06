@@ -1,0 +1,18 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android / IDE
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
